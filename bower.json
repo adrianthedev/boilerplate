@@ -1,0 +1,28 @@
+{
+  "name": "adrian-bootstrap",
+  "version": "1",
+  "authors": [
+    "adrian <adrian@adrianthedev.com>"
+  ],
+  "description": "Just a bootstrap",
+  "main": "index.php",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "jquery": "~2.1.3",
+    "angular": "1.3.12",
+    "font-awesome": "~4.3.0",
+    "less": "~2.3.1"
+  }
+}
