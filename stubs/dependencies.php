@@ -8,5 +8,5 @@ $deps = [
 ?>
 
 <?php foreach ($deps as $dep): ?>
-    <script src="bower_components/<?=$dep?>"></script>
+    <script src="components/<?=$dep?>"></script>
 <?php endforeach; ?>
